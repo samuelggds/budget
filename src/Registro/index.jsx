@@ -275,6 +275,56 @@ function Register() {
               onChange={handleInputChange}
             />
           </Label>
+          <Label>
+            Item 6
+            <input
+              type="text"
+              name="item6"
+              placeholder="Item"
+              value={formData.item6}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Item 7
+            <input
+              type="text"
+              name="item7"
+              placeholder="Item"
+              value={formData.item7}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Item 8
+            <input
+              type="text"
+              name="item8"
+              placeholder="Item"
+              value={formData.item8}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Item 9
+            <input
+              type="text"
+              name="item9"
+              placeholder="Item"
+              value={formData.item9}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Item 10
+            <input
+              type="text"
+              name="item10"
+              placeholder="Item"
+              value={formData.item10}
+              onChange={handleInputChange}
+            />
+          </Label>
           <h1>DESCRIÇÃO</h1>
 
           <Label>
@@ -314,6 +364,56 @@ function Register() {
               name="descricao5"
               placeholder="Descrição"
               value={formData.descricao5}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Descrição 6
+            <input
+              type="text"
+              name="descricao6"
+              placeholder="Descrição"
+              value={formData.descricao6}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Descrição 7
+            <input
+              type="text"
+              name="descricao7"
+              placeholder="Descrição"
+              value={formData.descricao7}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Descrição 8
+            <input
+              type="text"
+              name="descricao8"
+              placeholder="Descrição"
+              value={formData.descricao8}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Descrição 9
+            <input
+              type="text"
+              name="descricao9"
+              placeholder="Descrição"
+              value={formData.descricao9}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Descrição 10
+            <input
+              type="text"
+              name="descricao10"
+              placeholder="Descrição"
+              value={formData.descricao10}
               onChange={handleInputChange}
             />
           </Label>
@@ -360,6 +460,56 @@ function Register() {
               onChange={handleInputChange}
             />
           </Label>
+          <Label>
+            Qtde 6
+            <input
+              type="text"
+              name="qtde6"
+              placeholder="Quantidade"
+              value={formData.qtde6}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Qtde 7
+            <input
+              type="text"
+              name="qtde7"
+              placeholder="Quantidade"
+              value={formData.qtde7}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Qtde 8
+            <input
+              type="text"
+              name="qtde8"
+              placeholder="Quantidade"
+              value={formData.qtde8}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Qtde 9
+            <input
+              type="text"
+              name="qtde9"
+              placeholder="Quantidade"
+              value={formData.qtde9}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Qtde 10
+            <input
+              type="text"
+              name="qtde10"
+              placeholder="Quantidade"
+              value={formData.qtde10}
+              onChange={handleInputChange}
+            />
+          </Label>
           <h1>Valor da Unidade</h1>
 
           <Label>
@@ -399,6 +549,56 @@ function Register() {
               name="unit5"
               placeholder="Unidade"
               value={formData.unit5}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Unit 6
+            <input
+              type="text"
+              name="unit6"
+              placeholder="Unidade"
+              value={formData.unit6}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Unit 7
+            <input
+              type="text"
+              name="unit7"
+              placeholder="Unidade"
+              value={formData.unit7}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Unit 8
+            <input
+              type="text"
+              name="unit8"
+              placeholder="Unidade"
+              value={formData.unit8}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Unit 9
+            <input
+              type="text"
+              name="unit9"
+              placeholder="Unidade"
+              value={formData.unit9}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Unit 10
+            <input
+              type="text"
+              name="unit10"
+              placeholder="Unidade"
+              value={formData.unit10}
               onChange={handleInputChange}
             />
           </Label>
@@ -442,6 +642,56 @@ function Register() {
               name="vlrTotal5"
               placeholder="Valor Total"
               value={formData.vlrTotal5}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Total 6
+            <input
+              type="text"
+              name="vlrTotal6"
+              placeholder="Valor Total"
+              value={formData.vlrTotal6}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Total 7
+            <input
+              type="text"
+              name="vlrTotal7"
+              placeholder="Valor Total"
+              value={formData.vlrTotal7}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Total 8
+            <input
+              type="text"
+              name="vlrTotal8"
+              placeholder="Valor Total"
+              value={formData.vlrTotal8}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Total 9
+            <input
+              type="text"
+              name="vlrTotal9"
+              placeholder="Valor Total"
+              value={formData.vlrTotal9}
+              onChange={handleInputChange}
+            />
+          </Label>
+          <Label>
+            Total 10
+            <input
+              type="text"
+              name="vlrTotal10"
+              placeholder="Valor Total"
+              value={formData.vlrTotal10}
               onChange={handleInputChange}
             />
           </Label>
